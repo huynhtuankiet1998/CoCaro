@@ -1,0 +1,38 @@
+F:\AIcaro\cocaro\cocaro\bin\Debug\cocaro.exe.config
+F:\AIcaro\cocaro\cocaro\bin\Debug\cocaro.exe
+F:\AIcaro\cocaro\cocaro\bin\Debug\cocaro.pdb
+F:\AIcaro\cocaro\cocaro\obj\Debug\cocaro.csprojResolveAssemblyReference.cache
+F:\AIcaro\cocaro\cocaro\obj\Debug\cocaro.Form1.resources
+F:\AIcaro\cocaro\cocaro\obj\Debug\cocaro.Properties.Resources.resources
+F:\AIcaro\cocaro\cocaro\obj\Debug\cocaro.csproj.GenerateResource.Cache
+F:\AIcaro\cocaro\cocaro\obj\Debug\cocaro.exe
+F:\AIcaro\cocaro\cocaro\obj\Debug\cocaro.pdb
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\bin\Debug\cocaro.exe.config
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\bin\Debug\cocaro.exe
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\bin\Debug\cocaro.pdb
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\obj\Debug\cocaro.csprojResolveAssemblyReference.cache
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\obj\Debug\cocaro.Form1.resources
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\obj\Debug\cocaro.Properties.Resources.resources
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\obj\Debug\cocaro.csproj.GenerateResource.Cache
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\obj\Debug\cocaro.exe
+C:\Users\QuocHau\Downloads\AIcaro\cocaro\cocaro\obj\Debug\cocaro.pdb
+G:\cocaro\cocaro\bin\Debug\cocaro.exe.config
+G:\cocaro\cocaro\bin\Debug\cocaro.exe
+G:\cocaro\cocaro\bin\Debug\cocaro.pdb
+G:\cocaro\cocaro\obj\Debug\cocaro.csprojAssemblyReference.cache
+G:\cocaro\cocaro\obj\Debug\cocaro.Form1.resources
+G:\cocaro\cocaro\obj\Debug\cocaro.Properties.Resources.resources
+G:\cocaro\cocaro\obj\Debug\cocaro.csproj.GenerateResource.cache
+G:\cocaro\cocaro\obj\Debug\cocaro.csproj.CoreCompileInputs.cache
+G:\cocaro\cocaro\obj\Debug\cocaro.exe
+G:\cocaro\cocaro\obj\Debug\cocaro.pdb
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\obj\Debug\cocaro.csprojAssemblyReference.cache
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\obj\Debug\cocaro.Properties.Resources.resources
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\obj\Debug\cocaro.csproj.GenerateResource.cache
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\obj\Debug\cocaro.csproj.CoreCompileInputs.cache
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\obj\Debug\cocaro.exe
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\obj\Debug\cocaro.pdb
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\bin\Debug\cocaro.exe.config
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\bin\Debug\cocaro.exe
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\bin\Debug\cocaro.pdb
+D:\HK1-N3\Trí Tuệ Nhân Tạo\cocaro\cocaro\obj\Debug\cocaro.Form1.resources
